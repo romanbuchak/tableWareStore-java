@@ -1,4 +1,3 @@
-
 package ua.lviv.iot.tableWareStore.models;
 
 public class Store {

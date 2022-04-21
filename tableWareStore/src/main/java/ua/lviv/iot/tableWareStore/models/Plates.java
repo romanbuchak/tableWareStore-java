@@ -1,6 +1,5 @@
 package ua.lviv.iot.tableWareStore.models;
 
-
 import lombok.Getter;
 
 @Getter
